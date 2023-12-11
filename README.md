@@ -59,7 +59,9 @@
     - reducing texture resolution
     - rigging with [Mixamo](https://www.mixamo.com/#/)
 
-- The Procedural Walking Script (IKFootSolver.cs) was created by following [Unity's Procedural Walking Tutorial](https://www.youtube.com/watch?v=acMK93A-FSY) and adding a rotation offset variable!
+- The Procedural Walking Script (IKFootSolver.cs) was created by Ashley, following [Unity's Procedural Walking Tutorial](https://www.youtube.com/watch?v=acMK93A-FSY) and adding a rotation offset variable!
+
+- The Limb Manipulation Script (IKFollowTargetTest.cs) was created by Ashley and Pranav, to implement simple transform-following for the IK rig targets.
 
 ## Contact Information
 ### Ashley Neall
